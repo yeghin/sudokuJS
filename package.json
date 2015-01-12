@@ -1,0 +1,11 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "dependencies": {
+    "mocha": "^2.1.0"
+  },
+  "devDependencies": {
+    "karma-chai": "^0.1.0",
+    "karma-phantomjs-launcher": "^0.1.4"
+  }
+}
